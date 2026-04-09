@@ -128,7 +128,7 @@ HAL_ADC_Init(&ADC_InitStruct);
 ## 技术规格
 
 - **内核**: ARM Cortex-M0+
-- **主频**: 最高 48MHz
+- **主频**: 最高 24MHz
 - **Flash**: 最大 64KB
 - **SRAM**: 最大 8KB
 - **ADC**: 12位，16通道，最高 1MSPS
